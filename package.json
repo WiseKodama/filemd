@@ -1,0 +1,19 @@
+{
+  "name": "filems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "WiseKodama",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "multer": "^1.3.0",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
